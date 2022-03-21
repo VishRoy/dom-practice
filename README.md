@@ -19,3 +19,10 @@ Question Links:
  - When a user brings mouse over the bold text it should be highlighted.
  
  - Solution Link - https://codepen.io/vishakha10/pen/ExoPrdN
+
+
+# Exercise - 3
+
+ - Show the width and height of the window (it should change when window is resized).
+ 
+ - Solution Link - https://codepen.io/vishakha10/pen/oNpLKZQ
