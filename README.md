@@ -26,3 +26,10 @@ Question Links:
  - Show the width and height of the window (it should change when window is resized).
  
  - Solution Link - https://codepen.io/vishakha10/pen/oNpLKZQ
+
+
+# Exercise - 4
+
+ - Give all the images at even position a similar border color and style, and all the images at odd position same border style but different then the even ones.
+ 
+ - Solution Link - https://codepen.io/vishakha10/pen/QWaGMbL
