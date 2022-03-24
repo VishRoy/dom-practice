@@ -5,6 +5,7 @@ Question Links:
 
 1. https://medium.com/nerd-for-tech/up-your-dom-manipulation-game-through-these-exercises-part-01-103864ac8b0b
 2. https://dev.to/codebubb/javascript-dom-practice-exercises-for-beginners-21ml
+3. https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php
 
 
 # Exercise - 1
